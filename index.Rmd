@@ -1,0 +1,41 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+This is an awesome website about data science and elmo?
+
+Sometimes I use [google](https://www.google.com/) to do data science when I'm stuck
+
+These are my friends. They're chill. 
+
+![](images/friends.jpg)
+ this first version is using markdown embedding
+
+Another way: 
+
+<img src="images/friends.jpg" style="width:75%">
+
+this is using html embedding.
+
+These do not go into a code chunk. If you want to have control over size, html is prob the way to go.
+
+If you'd like to learn more about this website, visit [this page](about.html)
+
+CASE SENSITIVE! be careful with the links.
+
+
+
+
+
+
+
+
+
