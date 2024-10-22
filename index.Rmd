@@ -4,12 +4,12 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
 This is an awesome website about data science and elmo?
 
 Sometimes I use [google](https://www.google.com/) to do data science when I'm stuck
@@ -17,7 +17,7 @@ Sometimes I use [google](https://www.google.com/) to do data science when I'm st
 These are my friends. They're chill. 
 
 ![](images/friends.jpg)
- this first version is using markdown embedding
+This first version is using markdown embedding
 
 Another way: 
 
